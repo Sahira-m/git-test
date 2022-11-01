@@ -1,0 +1,2 @@
+1 wd-> stagggig area  ->  local repo  ->  remote repo
+2
