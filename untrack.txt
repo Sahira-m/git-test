@@ -1,8 +1,5 @@
-a
-b
-c
-d
-e
-f
-g
+november 1 git
+november 2 html
+november 3 css
+
 
